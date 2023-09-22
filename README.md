@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-** I am Akash Ingle
+ I am Akash Ingle
 
 - 🔭 I’m currently working on MERN development
 - 🌱 I’m currently learning CS at VIT, Pune
