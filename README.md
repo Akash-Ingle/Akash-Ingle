@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Ingle</h1>
 <h3 align="center">A passionate CS geek from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-ingle&label=Profile%20views&color=0e75b6&style=flat" alt="akash-ingle" /> </p>
 
