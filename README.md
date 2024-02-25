@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-ingle&label=Profile%20views&color=0e75b6&style=flat" alt="akash-ingle" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-ingle" alt="akash-ingle" /></a> </p>
-
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 💬 Ask me about **MERN and DSA**
