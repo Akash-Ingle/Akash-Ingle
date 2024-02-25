@@ -6,9 +6,13 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
+- 👯 I’m looking to collaborate on **MERN stack projects**
+
 - 💬 Ask me about **MERN and DSA**
 
 - 📫 How to reach me **akash.ingle21@vit.edu**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
